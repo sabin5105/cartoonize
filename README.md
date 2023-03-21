@@ -25,7 +25,7 @@ opencv cartoonize practice
 
 <table>
   <tr>
-    <td><img src="./chatGPT.png" width="400" height="300">ChatGPT recommendation</td>
-    <td><img src="./stylization.png" width="400" height="300">stylization</td>
+    <td><img src="./stylization.png" width="400" height="300">My&nbsp;variation</td>
+    <td><img src="./chatGPT.png" width="400" height="300">ChatGPT&nbsp;recommendation</td>
   </tr>
 </table>
